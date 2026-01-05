@@ -8,8 +8,8 @@
 
 ## 🔧 Technologies & Tools
 - **Languages:** Python, SQL  
-- **ML Frameworks:** scikit-learn, TensorFlow, PyTorch  
-- **Databases:** MySQL, SQLite  
+- **ML Frameworks:** scikit-learn  
+- **Databases:** MySQL  
 - **Tools:** Jupyter Notebook, Pandas, NumPy, Matplotlib
 
 ---
@@ -17,9 +17,8 @@
 ## 📌 Featured Projects
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| ML Stock Predictor | Predict stock price trends | Python, scikit-learn, MySQL |
-| Movie Recommendation System | Recommend movies based on user ratings | Python, pandas, MySQL |
-| Daily ML Practice | Daily small ML challenges | Python, scikit-learn |
+| python, numpy, pandas,  scikit-learn, MySQL |
+| Daily ML Practice | Daily small ML challenges | Daily PY practice| Daily small PY challenges | Daily MYSQL prictice |
 
 ---
 
