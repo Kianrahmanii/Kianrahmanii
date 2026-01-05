@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Kian
 
-💻 **Skills:** Python | Machine Learning | MySQL | Data Analysis  
-🧠 **Currently learning:** Deep Learning & NLP  
+💻 **Skills:** Python | Machine Learning | MySQL |  
+🧠 **Currently learning:** machine Learning & Advanced PY & MYSQL  
 🎯 **Goal:** Build practical ML projects and improve data engineering skills
 
 ---
@@ -10,7 +10,7 @@
 - **Languages:** Python, SQL  
 - **ML Frameworks:** scikit-learn  
 - **Databases:** MySQL  
-- **Tools:** Jupyter Notebook, Pandas, NumPy, Matplotlib
+- **Tools:** Jupyter Notebook, Pandas, NumPy, Matplotlib , MySQL Workbench
 
 ---
 
