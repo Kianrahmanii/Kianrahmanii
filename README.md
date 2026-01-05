@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Kian
 
 💻 **Skills:** Python | Machine Learning | MySQL |  
-🧠 **Currently learning:** machine Learning & Advanced PY & MYSQL  
+🧠 **Currently learning:** machine Learning & Advanced PY   
 🎯 **Goal:** Build practical ML projects and improve data engineering skills
 
 ---
