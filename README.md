@@ -17,7 +17,7 @@
 ## 📌 Featured Projects
 | Daily ML Practice | Daily small ML challenges |
 | Daily PY practice | Daily small PY challenges |
-| Daily MYSQL prictice |
+| Daily MYSQL practice |
 
 ---
 
